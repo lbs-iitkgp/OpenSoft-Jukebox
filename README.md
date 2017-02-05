@@ -130,7 +130,6 @@ Then add a title and description to your pull request that explains your preciou
 
 ## Need help?
 Feel free to ping us anytime!
-###on [Facebook](https://www.facebook.com/naresh.ramesh) or on [Slack](https://metakgp.slack.com/) (Username: ghostwriternr).
 
 **Naresh**
 
