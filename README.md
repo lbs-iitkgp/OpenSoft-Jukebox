@@ -5,9 +5,9 @@
 ## Steps to follow:
 ### 1. Fork it :fork_and_knife:
 
-You can get your own fork/copy of [OpenSoft-Jukebox](https://github.com/ghostwriternr/OpenSoft-Jukebox) by using the <a href=""><kbd><b>Fork</b></kbd></a> button in the top right corner.
+You can get your own fork/copy of [OpenSoft-Jukebox](https://github.com/lbs-iitkgp/OpenSoft-Jukebox) by using the <a href=""><kbd><b>Fork</b></kbd></a> button in the top right corner.
 
- [![Fork Button](https://help.github.com/assets/images/help/repository/fork_button.jpg)](https://github.com/ghostwriternr/OpenSoft-Jukebox)
+ [![Fork Button](https://help.github.com/assets/images/help/repository/fork_button.jpg)](https://github.com/lbs-iitkgp/OpenSoft-Jukebox)
 
 ### 2. Clone it :busts_in_silhouette:
 
@@ -38,10 +38,10 @@ origin  https://github.com/Your_Username/OpenSoft-Jukebox.git (fetch)
 origin  https://github.com/Your_Username/OpenSoft-Jukebox.git (push)
 ```
 
-Now, lets add a reference to the original [OpenSoft-Jukebox](https://github.com/ghostwriternr/OpenSoft-Jukebox) repository using
+Now, lets add a reference to the original [OpenSoft-Jukebox](https://github.com/lbs-iitkgp/OpenSoft-Jukebox) repository using
 
 ```sh
-$ git remote add upstream https://github.com/ghostwriternr/OpenSoft-Jukebox.git
+$ git remote add upstream https://github.com/lbs-iitkgp/OpenSoft-Jukebox.git
 ```
 
 > This adds a new remote named ***upstream***.
@@ -52,8 +52,8 @@ See the changes using
 $ git remote -v
 origin    https://github.com/Your_Username/OpenSoft-Jukebox.git (fetch)
 origin    https://github.com/Your_Username/OpenSoft-Jukebox.git (push)
-upstream  https://github.com/ghostwriternr/OpenSoft-Jukebox.git (fetch)
-upstream  https://github.com/ghostwriternr/OpenSoft-Jukebox.git (push)
+upstream  https://github.com/lbs-iitkgp/OpenSoft-Jukebox.git (fetch)
+upstream  https://github.com/lbs-iitkgp/OpenSoft-Jukebox.git (push)
 ```
 
 ### 4. Sync it :recycle:
@@ -77,7 +77,7 @@ $ git push origin master
 
 ### 5. Ready Steady Go... :turtle: :rabbit2:
 
-Once you have completed these steps, you are ready to start contributing by adding your work or by checking the repo's `Help Wanted` Issues, and creating [pull requests](https://github.com/ghostwriternr/OpenSoft-Jukebox/pulls).
+Once you have completed these steps, you are ready to start contributing by adding your work or by checking the repo's `Help Wanted` Issues, and creating [pull requests](https://github.com/lbs-iitkgp/OpenSoft-Jukebox/pulls).
 
 ### 6. Create a new branch :bangbang:
 
@@ -129,6 +129,17 @@ Finally, go to your repository in browser and click on `compare and pull request
 Then add a title and description to your pull request that explains your precious effort.
 
 ## Need help?
-Feel free to ping me anytime on [Facebook](https://www.facebook.com/naresh.ramesh) or on [Slack](https://metakgp.slack.com/) (Username: ghostwriternr).
+Feel free to ping us anytime!
+###on [Facebook](https://www.facebook.com/naresh.ramesh) or on [Slack](https://metakgp.slack.com/) (Username: ghostwriternr).
+
+**Naresh**
+
+| [Facebook](https://www.facebook.com/naresh.ramesh) | [Slack (@ghostwriternr)](https://metakgp.slack.com/)
+| --- | --- |
+
+**Athitya Kumar**
+
+| [Facebook](https://www.facebook.com/athitya.kumar) | [Slack (@athityakumar)](https://metakgp.slack.com/)
+| --- | --- |
 
 Cheers!! :smile:
